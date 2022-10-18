@@ -1,0 +1,1 @@
+Simple algorithm for replacing VK's [id*|...] in string plus indexes for visualize selecting
