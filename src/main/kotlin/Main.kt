@@ -1,3 +1,5 @@
+package com.meloda.mentionsreplacer
+
 fun main() {
     val input = readlnOrNull() ?: ""
 
